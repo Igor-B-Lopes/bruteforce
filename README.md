@@ -14,6 +14,7 @@ Este script **não deve ser utilizado em sistemas ou contas reais** sem autoriza
    ```bash
    git clone https://github.com/Igor-B-Lopes/bruteforce.git
    cd bruteforce
+
 2. Execute o script:
    ```bash
    python brute_force.py
@@ -28,8 +29,7 @@ O script tentará encontrar a senha correta comparando-a com uma lista predefini
    ├── README.md         # Este arquivo
    ├── .gitignore        # Arquivos a serem ignorados pelo Git
    └── LICENSE           # Licença do projeto
-
-
+```
 ## Cuidados e Ética
 
 - Uso Responsável: Utilize este script apenas em ambientes de teste onde você tenha permissão explícita para realizar testes de segurança.
